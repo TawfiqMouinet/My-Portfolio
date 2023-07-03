@@ -120,7 +120,7 @@ export default function Home() {
               <AiFillGithub className="text-5xl" />
             </a>
           </div>
-          <div className="">
+          <div className="bg-white">
             <img src="me.jpg" alt="Me!" className="" />
           </div>
         </div>
