@@ -110,7 +110,7 @@ export default function Home() {
                   "Gamer",
                   1000,
                 ]}
-                loop={true}
+                loop={Infinity}
               />
             </div>
             <a
